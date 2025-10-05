@@ -403,7 +403,7 @@ Exoplanets are detected when they pass in front of their host star, causing a pe
 ## 👥 Team BeyondInfinity
 
 **Team Members:**
-- **Rafaa Ali** - Co-developer and collaborator
+- **Rafaa Ali** - Co-developer and collaborator.
 
 **Roles & Contributions:**
 
