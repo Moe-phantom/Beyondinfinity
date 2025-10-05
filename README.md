@@ -554,9 +554,9 @@ Datasets are provided by NASA and are in the public domain.
 **Team BeyondInfinity**
 
 - GitHub: [github.com/moe-phantom
-- Email: maaabkiron@gmail.com  
+- Email: maaabkiron@gmail.com 
 -LinkedIn: MOHAMED ALWTHIQ  
-RAFAA ALI ABDALLA
+           RAFAA ALI ABDALLA
 
 ---
 
